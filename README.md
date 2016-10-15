@@ -5,9 +5,11 @@ Sometimes when you're using the shell, you can forget certain commands that are 
 With this you can make notes of these things and then query your notes later if you forget.
 
 ## Installation
-1. install [pip](https://pip.pypa.io/en/stable/installing/)
-2. run `pip install notes-cli && notes init` (run as admin/root if errors occur)
-4. and you're done!
+This package uses python3 so you will need pip3 to install it
+#### For ubuntu:
+1. run `sudo apt-get install python3-setuptools && sudo easy_install3 pip`
+
+Once you have it, run `pip3 install notes-cli` (run as admin/root if errors occur) and you're done!
 
 ## Docs
 * `notes init`: creates a new a file to store all your notes. Stores it as '.notes.json' in your home directory.
