@@ -13,7 +13,7 @@ NOTES_FILE = Path(NOTES_PATH)
 
 @click.group()
 def notes():
-    """ Define the root command for cli"""
+    """A CLI for your notes"""
     pass
 
 @notes.command()
