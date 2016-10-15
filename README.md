@@ -6,7 +6,7 @@ With this you can make notes of these things and then query your notes later if 
 
 ## Installation
 1. install [pip](https://pip.pypa.io/en/stable/installing/)
-2. run `pip install notes-cli && notes init`
+2. run `pip install notes-cli && notes init` (run as admin/root if errors occur)
 4. and you're done!
 
 ## Docs
