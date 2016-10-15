@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='notes_cli',
-      version='0.1',
+      version='0.2',
       description='command line tool for your notes',
       long_description='Store notes for later and query them to avoid having to leave the shell.',
       classifiers=[
