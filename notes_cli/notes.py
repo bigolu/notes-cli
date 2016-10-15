@@ -25,7 +25,7 @@ def add():
     note_name = click.prompt('Enter the note name')
     note_value = click.prompt('Enter the note')
 
-    # load notes from local and and add new note
+    # load notes from local and add new note
     click.echo('Storing new note ...')
     all_notes = {}
     with open(NOTES_PATH, 'r') as notes_file:
