@@ -1,12 +1,17 @@
 # notes-cli
 
-Sometimes when you're using the shell, you can forget certain commands that are annoying to Google or where you are storing something, etc... 
-With this you can make notes of these things and then query your notes later if you forget.
+![alt tag](https://raw.githubusercontent.com/biggie96/notes-cli/master/README_ASSETS/tar.png)
+
+When using the shell, it's easy to forget certain commands, but with this you can make notes of them and refer to it later if you forget.
 
 ## Installation
-This package uses python3 so you will need pip3 to install it
-#### For ubuntu:
-1. run `sudo apt-get install python3-setuptools && sudo easy_install3 pip`
+This package uses python3 so you will need pip3 to install it.
+
+#### Ubuntu:
+- `sudo apt-get install python3-setuptools && sudo easy_install3 pip`
+
+#### macOS:
+- `brew install python3`
 
 Once you have it, run `pip3 install notes-cli` (run as admin/root if errors occur) and you're done!
 
