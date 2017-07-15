@@ -1,6 +1,6 @@
 # notes-cli
 
-![alt tag](https://raw.githubusercontent.com/biggie96/notes-cli/master/README_ASSETS/tar.png)
+![alt tag](https://raw.githubusercontent.com/bigolu/notes-cli/master/README_ASSETS/tar.png)
 
 When using the shell, it's easy to forget certain commands, but with this you can make notes of them and refer to it later if you forget.
 
