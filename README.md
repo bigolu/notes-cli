@@ -1,6 +1,5 @@
 # notes-cli
 
-## Description
 Sometimes when you're using the shell, you can forget certain commands that are annoying to Google or where you are storing something, etc... 
 With this you can make notes of these things and then query your notes later if you forget.
 
