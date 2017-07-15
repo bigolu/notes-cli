@@ -2,7 +2,7 @@
 
 ![alt tag](https://raw.githubusercontent.com/bigolu/notes-cli/master/README_ASSETS/tar.png)
 
-When using the shell, it's easy to forget certain commands, but with this you can make notes of them and refer to it later if you forget.
+When using the shell, it's easy to forget certain commands, but with this you can make notes of them and refer to it later.
 
 ## Installation
 This package uses python3 so you will need pip3 to install it.
